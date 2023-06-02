@@ -50,7 +50,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 #maximum search result buttos count in number#
 MAX_RIST_BTNS = int(environ.get('MAX_RIST_BTNS', "10"))
-START_MESSAGE = environ.get('START_MESSAGE', '👋 𝙷𝙴𝙻𝙾 {user}\n\n𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 {bot},\n𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽...')
+START_MESSAGE = environ.get('START_MESSAGE', 'Hi {user} ❤️')
 BUTTON_LOCK_TEXT = environ.get("BUTTON_LOCK_TEXT", "😾 මේක අනුන්ගේ")
 FORCE_SUB_TEXT = environ.get('FORCE_SUB_TEXT', 'මුලින් අපේ Update චැනල් එකට එකතු වෙන්න 📢')
 RemoveBG_API = environ.get("RemoveBG_API", "")
@@ -67,7 +67,7 @@ SHORT_API = environ.get("SHORT_API")
 # Others
 IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "86400"))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'mkn_bots_updates')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'LeoContact_bot')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 PM_IMDB = environ.get('PM_IMDB', "True")
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
