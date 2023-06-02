@@ -4,8 +4,8 @@
     "logo": "https://graph.org/file/28dab9ed810cc4a031066.jpg",
     "keywords": ["telegram", "auto-filter"],
     "stack": "container",
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://t.me/LeoMovieparadise",
+    "repository": "https://t.me/LeoMovieparadise",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
