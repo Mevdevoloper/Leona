@@ -1,16 +1,12 @@
 class script(object):   
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/the_mevann>Mev</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : Pyrogram
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : Python 3
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : MONGO-DB
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : ASIA-SINGAPORE
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: LEONA V3.0.0"""
+    ABOUT_TXT = """🌟<b>Creator : <a href=https://t.me/CodeMasterTG>Code Master Bots</a>
+📚LIBRARY   : Pyrogram
+🧰LANGUAGE  : Python 3
+🗂️DATA BASE : MONGO-DB
+🪤VERSION   :LEONA V3.0.0</b>"""
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/the_mevann>Mev</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
