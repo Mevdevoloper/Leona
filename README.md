@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐋𝐞𝐨𝐧𝐚 𝟒.𝟎)</p>
-<p align="center">
-  <img src="Logo/PROFESSOR-BOT.jpg" alt="Leona Logo">
+![
 </p>
 <h1 align="center">
   <b> 𝐋𝐞𝐨𝐧𝐚 𝟒.𝟎</b>
